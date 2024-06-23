@@ -1,0 +1,29 @@
+{
+    "list": [
+        {
+            "name": "学院首页",
+            "url": "https://www.mbu.cn/",
+            "target": "_parent"
+        },
+        {
+            "name": "学院概况",
+            "url": "https://www.mbu.cn/index/single/74",
+            "target": "_blank"
+        },
+        {
+            "name": "新闻中心",
+            "url": "https://www.mbu.cn/index/list/2",
+            "target": "_blank"
+        },
+        {
+            "name": "招生就业",
+            "url": "https://www.mbu.cn/zjc/",
+            "target": "_blank"
+        },
+        {
+            "name": "教育教学",
+            "url": "https://www.mbu.cn/jwc",
+            "target": "_blank"
+        }
+    ]
+}
